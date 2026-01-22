@@ -1,4 +1,4 @@
-# Notebook-LM-Investimentos-Gates-
+# Notebook-LM-Investimentos-Gates8
 Notebook LM Explorando Investimentos com os planos de Gates
 Aqui estão alguns prompts com respostas um resumo glossário e a conclusão
 Link Oficial: https://notebooklm.google.com/notebook/5843eaf9-3774-43aa-b957-8d8f11036e8d
